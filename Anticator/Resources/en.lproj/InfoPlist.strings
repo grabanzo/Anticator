@@ -1,0 +1,21 @@
+/* 
+  InfoPlist.strings
+  Anticator
+
+  Created by Marcos Riosalido Vilagrasa on 28/12/25.
+  
+  English localization for Info.plist privacy descriptions
+*/
+
+/* Camera usage description */
+"NSCameraUsageDescription" = "Anticator needs camera access to scan authentication QR codes";
+
+/* Face ID usage description */
+"NSFaceIDUsageDescription" = "Anticator uses Face ID to protect your authentication codes.";
+
+/* App display name */
+"CFBundleDisplayName" = "Anticator";
+
+/* Bundle name */
+"CFBundleName" = "Anticator";
+
